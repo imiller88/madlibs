@@ -1,4 +1,12 @@
 p {
     font-family: 'UnifrakturCook', Sans-Serif;
+    font-size: 3em;
+    border: red dotted 10px;
+    text-align: center;
+}
 
+.header1 {
+    font-family: 'UnifrakturCook', Times;
+    color: orange;
+    font-size: 6em;
 }
